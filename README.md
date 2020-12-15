@@ -1,5 +1,5 @@
 
-![xyz](XYZ.jpg)
+![Autognorics](GNOS.jpg)
 # Sensoric Awareness 
 [HOME](https://autognorics.github.io/) 
 
