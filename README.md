@@ -1,7 +1,6 @@
-# test
-
-## Welcome
 
 ![xyz](XYZ.jpg)
 
-** jl **
+# AutoGnorics
+## The Science of Creating Engineered Life Forms Machines
+
