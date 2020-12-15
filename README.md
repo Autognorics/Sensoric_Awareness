@@ -2,6 +2,6 @@
 
 ## Welcome
 
-![xyz](xyz.jpeg)
+![xyz](XYZ.jpg)
 
 ** jl **
