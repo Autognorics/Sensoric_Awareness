@@ -1,6 +1,7 @@
 
 ![xyz](XYZ.jpg)
 # Exyzforms: Inscription by Design 
+[HOME](https://autognorics.github.io/) 
 
 In the article "_The robot who didn't know he is Alive!_", Lawsin redefined Aliveness or being alive based on the ability of an organism or machine to self-consume energy.  In human vocabulary, self-consumption of energy means consuming food by eating. In machines, it means self-recharging its battery or power source.
 
