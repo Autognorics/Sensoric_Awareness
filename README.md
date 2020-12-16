@@ -20,4 +20,4 @@ In the [video](https://www.youtube.com/watch?v=5qHTKruqrwc&feature=emb_title), t
 
 The state of being the machine exhibits is known as Sensoric Awareness. This is the second characteristic of Life according to the study on Originemology.
 
-"Awareness doesn't need to emanate from the brain."   ~   Joey Lawsin__
+> "Awareness doesn't need to emanate from the brain." ~ Joey Lawsin
